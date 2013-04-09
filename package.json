@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Oleksiy Krivoshey",
+    "email": "<oleksiyk@gmail.com>"
+  },
+  "name": "fs-persistent-object",
+  "description": "Tiny Node library for persisting small runtime objects on filesystem",
+  "version": "0.0.1",
+  "main": "./lib/fs-persistent-object",
+  "engines": {
+    "node": ">=0.8.16"
+  },
+  "dependencies": {
+    "underscore": ">=1.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/oleksiyk/fs-persistent-object/issues"
+  },
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oleksiyk/fs-persistent-object.git"
+  },
+  "keywords": [
+    "persistent",
+    "tiny",
+    "storage"
+  ],
+  "license": "MIT"
+}
